@@ -111,6 +111,11 @@ img{
   margin-right: 10px;
 }
 
+.btn-1{
+  margin-left: 0;
+  margin-right: 0;
+}
+
 .btn-brand{
   background-color: var(--c-brand);
   border-color: var(--c-brand);
@@ -122,6 +127,8 @@ img{
   border-color: var(--c-brand-light);
   color: white;
 }
+
+
 
 /*Fullscreen*/
 .Relative{
@@ -257,3 +264,16 @@ img{
   opacity: 1;
   top: 50%;
 }
+
+
+#contact{
+  background: linear-gradient(rgba(var(--c-brand-rgb), .5), rgba(var(--c-brand-rgb),.3)) , url(../images/hero-2.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+form{
+  
+  padding: 10px;
+}
+
