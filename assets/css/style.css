@@ -60,6 +60,10 @@ img{
   box-shadow: var(--box-shadow);
 }
 
+.color-b{
+  background-color: var(--c-brand-light);
+}
+
 
 /*Zoom img*/
 .image-zoom{
